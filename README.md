@@ -5,8 +5,11 @@ Asimismo, el análisis se enfoca en detectar tendencias clave dentro de las rese
 
 # Integrantes del grupo
 • Ariatna Ximena Bravo Torres (U20241C593)
+
 • Mijhail Jean Pierre Quispe Llancay (U20241C515)
+
 • Ryan Mateo Zavaleta Jave (U20231G996)
+
 • Jose Emanuel Amaro Saravia (U20241C247)
 
 # Descripción dataset
