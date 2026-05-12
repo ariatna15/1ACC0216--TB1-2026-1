@@ -14,8 +14,11 @@ Asimismo, el análisis se enfoca en detectar tendencias clave dentro de las rese
 
 # Descripción dataset
 El conjunto de datos utilizado se denomina Hotel Booking Demand y contiene información detallada sobre reservas realizadas en dos tipos de establecimientos: un hotel urbano y un hotel tipo resort.
+
 **Registros y variables**: El archivo cuenta con 119,390 filas y 32 columnas.
+
 **Contenido**: Incluye datos sobre la fecha de llegada, la duración de la estancia, el número de dadultos, niños y bebés, el país de origen, el segmento de mercado, el canal de distribución y el estado de la reserva (cancelado o no).
+
 **Periodo**: Los datos corresponden a registros reales de sistemas de gestión hotelera entre julio de 2015 y agosto de 2017.
 Para fines académicos, se ha realizado la modificación del ruido del dataset, como valores faltantes (NA) y valores atípicos (outliers).
 
