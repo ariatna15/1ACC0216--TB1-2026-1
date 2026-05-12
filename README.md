@@ -1,4 +1,6 @@
 # 1ACC0216--TB1-2026-1
+<img width="640" height="427" alt="image" src="https://github.com/user-attachments/assets/5fb7b0a1-6ba4-4078-a1cc-ef4f4b1cad6b" />
+
 # Objetivo del proyecto
 El objetivo principal de este trabajo es realizar un análisis exploratorio de datos (EDA) integral sobre el conjunto de datos "Hotel Booking Demand" utilizando R y RStudio como herramientas principales de software. Este proceso busca identificar patrones de comportamiento fundamentales mediante la generación de visualizaciones estratégicas y la preparación técnica de la información. Una etapa crítica del desarrollo consiste en el preprocesamiento de los datos, lo que implica la identificación y el tratamiento de ruido incorporado deliberadamente, específicamente valores faltantes (NA) y datos atípicos u outliers.
 Asimismo, el análisis se enfoca en detectar tendencias clave dentro de las reservas hoteleras, tales como la fluctuación de las cancelaciones, la identificación de temporadas de alta demanda y la duración promedio de las estancias según el tipo de establecimiento. También se exploran variables específicas sobre el perfil de los huéspedes, incluyendo la presencia de niños o bebés y el requerimiento de espacios de estacionamiento, para construir una comprensión detallada de la demanda actual. Todo esto permite extraer conclusiones iniciales que están debidamente respaldadas por el análisis cuantitativo.
@@ -50,3 +52,11 @@ Dado a los meses de alta demanda que también obtienen mayores reservas cancelad
 Al analizar que familias o clientes suelen viajar sin niños, podría ofrecerse paquetes que sean como promociones para captar ese público también. 
 
 Se necesita una buena organización y personal para tiempos o meses de mayor demanda. 
+
+# Fuentes y Licencia de los datos
+**Dataset original:** Obtenido de Kaggle - Hotel Booking Demand https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
+
+**Fuente bibliografía de datos:** Code and data on the categorization of soft-drink bottles using image silhouettes. https://www.sciencedirect.com/science/article/pii/S2352340918316081
+
+**Licencia de los datos: ** CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+
