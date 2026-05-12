@@ -22,7 +22,7 @@ Para fines académicos, se ha realizado la modificación del ruido del dataset, 
 # Conclusiones
 A partir del análisis exploratorio de datos (EDA) realizado sobre el dataset Hotel Booking Demand, se presentan las siguientes conclusiones: 
 
-¿Qué patrones o tendencias se observaron? 
+**¿Qué patrones o tendencias se observaron?**
 
 Se identificó una preferencia por los hoteles urbanos al notar una mayor cantidad de reservas no canceladas a comparación con el hotel resort, lo que indica preferencia por establecimientos ubicados en esa zona. 
 
@@ -38,7 +38,7 @@ Los meses que tienen un mayor volumen de reservas también presentan un mayor n�
 
  
 
-¿Qué recomendaciones se pueden extraer a partir de los hallazgos? 
+**¿Qué recomendaciones se pueden extraer a partir de los hallazgos?**
 
 Dado que City Hotel tiene mayor volumen, se recomienda enfocar las campañas comerciales en atraer clientes hacia el Resort Hotel durante temporadas bajas. 
 
