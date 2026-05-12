@@ -14,6 +14,7 @@ Asimismo, el análisis se enfoca en detectar tendencias clave dentro de las rese
 
 • Jose Emanuel Amaro Saravia (U20241C247)
 
+----------------------------------------------------------------------------------------------------------------------------
 # Descripción dataset
 El conjunto de datos utilizado se denomina Hotel Booking Demand y contiene información detallada sobre reservas realizadas en dos tipos de establecimientos: un hotel urbano y un hotel tipo resort.
 
@@ -58,5 +59,5 @@ Se necesita una buena organización y personal para tiempos o meses de mayor dem
 
 **Fuente bibliografía de datos:** Code and data on the categorization of soft-drink bottles using image silhouettes. https://www.sciencedirect.com/science/article/pii/S2352340918316081
 
-**Licencia de los datos: ** CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+**Licencia de los datos:** CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
 
