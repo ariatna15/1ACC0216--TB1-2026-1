@@ -20,3 +20,30 @@ El conjunto de datos utilizado se denomina Hotel Booking Demand y contiene infor
 Para fines académicos, se ha realizado la modificación del ruido del dataset, como valores faltantes (NA) y valores atípicos (outliers).
 
 # Conclusiones
+A partir del análisis exploratorio de datos (EDA) realizado sobre el dataset Hotel Booking Demand, se presentan las siguientes conclusiones: 
+
+¿Qué patrones o tendencias se observaron? 
+
+Se identificó una preferencia por los hoteles urbanos al notar una mayor cantidad de reservas no canceladas a comparación con el hotel resort, lo que indica preferencia por establecimientos ubicados en esa zona. 
+
+Las reservas no son iguales durante todo el año, tienden a subir o bajar bastante dependiendo del mes, lo que indica que los hoteles tienen temporadas altas y bajas que podrían servir para un mejor análisis interno. 
+
+Existe una diferencia en la duración promedio de las reservas. El Resort Hotel tiene mayor duración que las de City Hotel. 
+
+La mayoría de las reservas corresponden a adultos que viajan sin niños ni bebés, lo que define el cliente principal solo adultos.  
+
+El requerimiento de espacios de estacionamiento es mínimo dado que los registros la mayoría no ocupa alguno, entonces no es determinante para la elección del hotel. 
+
+Los meses que tienen un mayor volumen de reservas también presentan un mayor número de cancelaciones, como en el caso del mes de agosto. 
+
+ 
+
+¿Qué recomendaciones se pueden extraer a partir de los hallazgos? 
+
+Dado que City Hotel tiene mayor volumen, se recomienda enfocar las campañas comerciales en atraer clientes hacia el Resort Hotel durante temporadas bajas. 
+
+Dado a los meses de alta demanda que también obtienen mayores reservas canceladas, podría aplicarse una política para una cancelación más estricta y no de último momento para reducir el impacto financiero y la gestión. 
+
+Al analizar que familias o clientes suelen viajar sin niños, podría ofrecerse paquetes que sean como promociones para captar ese público también. 
+
+Se necesita una buena organización y personal para tiempos o meses de mayor demanda. 
