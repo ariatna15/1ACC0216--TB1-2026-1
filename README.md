@@ -1,5 +1,8 @@
 # 1ACC0216--TB1-2026-1
 <img width="640" height="427" alt="image" src="https://github.com/user-attachments/assets/5fb7b0a1-6ba4-4078-a1cc-ef4f4b1cad6b" />
+**Curso:** Fundamentos de Data Science
+
+**Profesor/a:** Nérida Isabel Manrique Tunque
 
 # Objetivo del proyecto
 El objetivo principal de este trabajo es realizar un análisis exploratorio de datos (EDA) integral sobre el conjunto de datos "Hotel Booking Demand" utilizando R y RStudio como herramientas principales de software. Este proceso busca identificar patrones de comportamiento fundamentales mediante la generación de visualizaciones estratégicas y la preparación técnica de la información. Una etapa crítica del desarrollo consiste en el preprocesamiento de los datos, lo que implica la identificación y el tratamiento de ruido incorporado deliberadamente, específicamente valores faltantes (NA) y datos atípicos u outliers.
